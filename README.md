@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [gustavo-laranjeira.herokuapp.com](https://gustavo-laranjeira.herokuapp.com)
 
-- 👯 I’m looking to collaborate on **URK**
+- 👯 I’m looking to collaborate on **URK** (it's an open source project, why don't you join us?)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, postgreSQL**
 
