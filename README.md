@@ -1,5 +1,4 @@
-<h1 align="center">Hello over there 👋,</h1>
-<h1 align="center">be welcome to my portfolio 😁.</h1>
+<h1 align="center">Hello over there 👋,</br> be welcome to my portfolio 😁.</h1> 
 <h2 align="center">My name is Gustavo Laranjeira and I'm a developer focused on web development.</h2>
 
 - 👨‍💻 All of my projects are available at [gustavo-laranjeira.herokuapp.com](https://gustavo-laranjeira.herokuapp.com)
