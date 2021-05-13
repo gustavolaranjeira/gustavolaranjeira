@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, postgreSQL**
 
-- 📫 How to reach me **gustavolaranjeiradev@gmail.com**
+- 📫 How to reach me **gustavolaranjeiramo@outlook.com**
 
 - ⚡ Fun fact **I play truco very well 😜**
 
