@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **URK** (it's an open source project, why don't you join us?)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, postgreSQL**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, postgreSQL**
 
 - 📫 How to reach me **gustavolaranjeiramo@outlook.com**
 
