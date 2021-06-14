@@ -12,19 +12,8 @@
 - ⚡ Fun fact **I play truco very well 😜**
 
 <p align="center">
-<a href="https://github.com/gustavolaranjeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
-<a href="https://twitter.com/gustavolaranjeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/gustavolaranjeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/gustavolaranjeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
+<a href="https://github.com/gustavolaranjeira" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
+<a href="https://twitter.com/gustavolaranjeira" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/gustavolaranjeira" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/gustavolaranjeira" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gustavolaranjeira" height="20" width="20" /></a>
 </p>
-
-
-
-<!-- I didn't create, yet! -->
-
-
-<!--
-**gustavolaranjeira/gustavolaranjeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
