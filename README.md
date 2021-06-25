@@ -1,7 +1,9 @@
 <h1 align="center">Hello over there 👋,</br> be welcome to my github 😁.</h1> 
 <h2 align="center">My name is Gustavo Laranjeira and I'm a developer focused on web development.</h2>
 
-- 👨‍💻 All of my projects are available at [gustavo-laranjeira.herokuapp.com](https://gustavo-laranjeira.herokuapp.com)
+- 🔭 I’m currently working on Mackenzie
+
+- 👨‍💻 All of my projects are available at my github
 
 - 👯 I’m looking to collaborate on **URK** (it's an open source project, why don't you join us?)
 
